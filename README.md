@@ -1,6 +1,7 @@
 # Windows-Endpoint-Analysis-Challenge
 ## Instructions:
 You've been assigned to remotely investigate a compromised Windows workstation as part of a live incident response scenario. The affected system has been imaged and all necessary forensic artifacts have been gathered. Your objective now is to investigate the scope of the compromise and identify any persistence mechanisms installed by the attacker.
+Use your endpoint analysis skills to conduct the investigation and answer the questions below
 
 ## Tools Used
 - Task manager
@@ -15,7 +16,6 @@ You've been assigned to remotely investigate a compromised Windows workstation a
 - Security tool Mastery
 - Malware Analysis
 
-Use your endpoint analysis skills to conduct the investigation and answer the questions below
 ## What port is the challenge.exe malware listening on?
 Using both TCPview and netstat -anob the listening port is 50050
 - <img width="481" height="300" alt="image" src="https://github.com/user-attachments/assets/18ab7834-504a-4a7d-ab73-a312e0006189" />
